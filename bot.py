@@ -1,6 +1,5 @@
 import telegram
-# importe suas chaves de acesso do arquivo credentials.py
-from credentials import *
+# credentials.py.sample *
 import logging
 # para logar erros
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
